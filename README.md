@@ -1,6 +1,6 @@
 # Automated Literature Analysis
 
-This repository shows an example of how to perform an automated analysis of peer-reviewed scholar literature using Jupyter notebooks and Scopus' citation database. This analysis detects the number of publications over time, popular authors, popular venues, popular affiliations, and popular "topics" that appear within the documents' abstracts (detected using natural language processing).
+This repository shows an example of how to perform an automated analysis of peer-reviewed scholar literature using Jupyter notebooks, Scopus, and Lens citation database. This analysis detects the number of publications over time, popular authors, popular venues, popular affiliations, and popular "topics" that appear within the documents' abstracts (detected using natural language processing).
 
 # Requirements
 
